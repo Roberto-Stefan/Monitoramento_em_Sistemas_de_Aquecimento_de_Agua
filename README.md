@@ -93,6 +93,24 @@ As fotos do protótipo físico estão disponíveis na pasta:
 These images show the experimental hardware setup used during development.
 
 Essas imagens mostram o protótipo utilizado durante o desenvolvimento.
+## Prototype Screens
+
+<p align="center">
+  <img src="prototype/Bath_In_Progress.jpg" width="250">
+  <img src="prototype/Electronic%20Circuit.jpg" width="250">
+  <img src="prototype/Final_Summary.jpg" width="250">
+</p>
+
+<p align="center">
+  <img src="prototype/High_Consumption.jpg" width="250">
+  <img src="prototype/Model.jpg" width="250">
+  <img src="prototype/Shower%20on.jpg" width="250">
+</p>
+
+<p align="center">
+  <img src="prototype/Shower_On_Hold.jpg" width="250">
+  <img src="prototype/Waiting%20for%20a%20shower.jpg" width="250">
+</p>
 
 ---
 
